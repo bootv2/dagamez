@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using ubagame.BaseEngine;
 
 namespace ubagame
 {
@@ -11,8 +12,7 @@ namespace ubagame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
-            Thread.Sleep(50000);
+            GameLoop.InitializeGameLoop();
         }
     }
 }

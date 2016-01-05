@@ -4,3 +4,6 @@ D:\Private\Projects\ubagame\ubagame\ubagame\bin\Debug\ubagame.pdb
 D:\Private\Projects\ubagame\ubagame\ubagame\obj\Debug\ubagame.csprojResolveAssemblyReference.cache
 D:\Private\Projects\ubagame\ubagame\ubagame\obj\Debug\ubagame.exe
 D:\Private\Projects\ubagame\ubagame\ubagame\obj\Debug\ubagame.pdb
+D:\Private\Projects\ubagame\ubagame\ubagame\bin\Debug\sfmlnet-audio-2.dll
+D:\Private\Projects\ubagame\ubagame\ubagame\bin\Debug\sfmlnet-graphics-2.dll
+D:\Private\Projects\ubagame\ubagame\ubagame\bin\Debug\sfmlnet-window-2.dll
