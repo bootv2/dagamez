@@ -1,0 +1,6 @@
+D:\Private\Projects\ubagame\ubagame\ubagame\bin\Debug\ubagame.exe.config
+D:\Private\Projects\ubagame\ubagame\ubagame\bin\Debug\ubagame.exe
+D:\Private\Projects\ubagame\ubagame\ubagame\bin\Debug\ubagame.pdb
+D:\Private\Projects\ubagame\ubagame\ubagame\obj\Debug\ubagame.csprojResolveAssemblyReference.cache
+D:\Private\Projects\ubagame\ubagame\ubagame\obj\Debug\ubagame.exe
+D:\Private\Projects\ubagame\ubagame\ubagame\obj\Debug\ubagame.pdb
